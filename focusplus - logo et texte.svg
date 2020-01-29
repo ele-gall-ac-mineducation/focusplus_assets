@@ -20,7 +20,7 @@
      id="title839">logo Focus+</title><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>logo Focus+</dc:title><dc:date>2019</dc:date><dc:creator><cc:Agent><dc:title>Erwan le Gall</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Licence Creative Commons CC-By</dc:title></cc:Agent></dc:rights><dc:publisher><cc:Agent><dc:title>Erwan le Gall</dc:title></cc:Agent></dc:publisher><dc:language>zxx</dc:language><dc:subject><rdf:Bag><rdf:li>logo</rdf:li><rdf:li>projet Focus+</rdf:li><rdf:li>Focus+</rdf:li><rdf:li>Focusplus</rdf:li></rdf:Bag></dc:subject><dc:coverage>international</dc:coverage></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>logo Focus+</dc:title><dc:date>2019</dc:date><dc:creator><cc:Agent><dc:title>Erwan le Gall</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>Licence Creative Commons CC-By</dc:title></cc:Agent></dc:rights><dc:publisher><cc:Agent><dc:title>Erwan le Gall</dc:title></cc:Agent></dc:publisher><dc:language>zxx</dc:language><dc:subject><rdf:Bag><rdf:li>logo</rdf:li><rdf:li>projet Focus+</rdf:li><rdf:li>Focus+</rdf:li><rdf:li>Focusplus</rdf:li></rdf:Bag></dc:subject><dc:coverage>international</dc:coverage><dc:identifier>https://github.com/ele-gall-ac-mineducation/focusplus_assets/blob/master/focusplus%20-%20logo%20et%20texte.svg</dc:identifier></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath18"><path
@@ -147,4 +147,6 @@
      style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold Italic'"
      id="path845"
      inkscape:connector-curvature="0" /></g>
-</g></g></svg>
+</g>
+   </g>
+</svg>
